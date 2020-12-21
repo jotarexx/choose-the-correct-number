@@ -7,7 +7,7 @@ def run():
         else:
             print('look for a smaller number')
         numero_elegido = int(input('choose another number: '))
-    print('Ganaste!')
+    print('You win!')
 
 
 if __name__ == "__main__":
