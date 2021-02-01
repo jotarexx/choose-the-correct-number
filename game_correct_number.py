@@ -9,6 +9,5 @@ def run():
         numero_elegido = int(input('choose another number: '))
     print('You win!')
 
-
 if __name__ == "__main__":
     run()
